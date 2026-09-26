@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Thimira Dimuth 👋
 
-<!--
-**ThimiraDimuth/ThimiraDimuth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Hardware Technician & Software Developer
 
-Here are some ideas to get you started:
+I'm based in Maharagama, Sri Lanka, working with hardware systems and building software/IoT solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 Computer Hardware Technician
+- 💻 Software Developer (HND in Computing/Software Engineering)
+- 🌐 Interested in IoT Systems, Networking, UI/UX Design
+
+## 🚀 Featured Projects
+- 🌱 [Smart Greenhouse IoT System](https://github.com/ThimiraDimuth/smart-greenhouse-iot) — Automated greenhouse monitoring & control
+- 🏨 Royal Beach Hotel Management System
+- 🎯 Career Connect
+
+## 🧰 Tech Stack
+`React` `Node.js` `Python` `Arduino/ESP32` `Docker` `MySQL/MongoDB`
+
+## 📫 Contact Me
+- Email: thimiradimuth@gmail.com
+- Connected to: City Computer Solutions (CCS), Maharagama
+
+⭐ Feel free to check out my repositories below!
