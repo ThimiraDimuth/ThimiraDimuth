@@ -25,7 +25,7 @@ $ cat about.txt
 
 I'm a computer hardware technician from Maharagama, Sri Lanka, with an
 **BSc (hons) computer science software engineering** from Goldsmith university of london.
-I enjoy combining hands-on hardware knowledge with software, from IoT sensor systems
+I enjoy combining hands-on Computer hardware knowledge with software, from IoT sensor systems
 to Java applications and UI/UX design.
 
 | | |
